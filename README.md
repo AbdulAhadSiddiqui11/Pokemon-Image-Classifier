@@ -4,7 +4,7 @@ Its a convNet built upon InceptionV3 and trained on 928 pokemon classes.
  loss: **0.1279** - accuracy: **0.9743** - validation loss: **0.9940** - validation accuracy: **0.7917**
 
 ## Training the model
-> Detailed instructions on how to train this model are described in the jupyter notebook attached.
+> Detailed instructions on how to train this model are described in the jupyter notebook attached ('**PokeClassifier_Train.ipynb**').
 
 ## Using pre-trained weights
 > If you want to download and use the weights of this trained model follow the link below.   
