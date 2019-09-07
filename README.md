@@ -20,4 +20,4 @@ Its a convNet built upon InceptionV3 and trained on 928 pokemon classes.
 >> Note : Change the locations to files if needed.  
 
 ## Other details  
->> Python files for the notebooks is also provided, if you need .py scripts for some reason.  
+>> Python files for the notebooks are also provided, if you need .py scripts for some reason.  
