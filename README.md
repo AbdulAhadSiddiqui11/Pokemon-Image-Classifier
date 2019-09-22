@@ -126,8 +126,8 @@ Screenshot 4
 > 1.    Download the model.h5 from the link provided  
 > 2(a). Download the pokemon_classes pickle file  
 > 2(b). Download the dataset from the link provided (optional) to create the classes_list (skip this if you're using the pickle file)  
-> 3.    Either run Run_model.ipynb or Run_model.py
-> Note : Change the locations to files if needed.  
+> 3.    Either run Run_model.ipynb or Run_model.py  
+> Note : Change the location of files if required.  
 
 ### Other details  
  Python files for all the notebooks are also provided, if you need .py scripts for some reason.  
